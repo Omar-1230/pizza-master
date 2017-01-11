@@ -1,9 +1,1 @@
-# Learn To Code
-## Love For Pizza
-
-My favorite pizza toppings are...
-
-* Cheese
-* More cheese
-* Pepperoni
-* Mushrooms 
+I hate pizza
